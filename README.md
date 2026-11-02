@@ -27,11 +27,8 @@ java ItemCost
 ```
 
 ### Student submission details
-- Student Name: [Enter your full name]
-- Matriculation Number: [Enter your matriculation number]
-- Programme: [Enter your programme]
-- Course: COS 201 – Computer Programming I
-- Week: 3
-- GitHub Repository URL: [Paste your GitHub repository URL]
-
-Replace the student details and repository URL above before submission.
+- Student Name: [jaiyeola peter .a]
+- Matriculation Number: [18078]
+- Programme: [computer science]
+- Course: COS 201
+  
